@@ -23,7 +23,7 @@ ezutai(易组态)
      $ cd ezutaiSDK
      $ npm install
      $ npm start
-     或直接下载各平台可执行程序（[mac os](http://ezutai.senkins.top/download/ezutai_mac.zip)，[win64](http://ezutai.senkins.top/download/ezutai_win64.exe)）
+     或直接下载各平台可执行程序（[mac os](http://ezutai.senkins.top/download/ezutai_mac.zip/)，[win64](http://ezutai.senkins.top/download/ezutai_win64.exe/)）
      
 ####
     系统平台
