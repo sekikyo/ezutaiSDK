@@ -10,12 +10,11 @@ ezutai(易组态)
 
 ## 使用
 
-### 使用之前
-
-```在浏览器中 打开 "http://www.senkins.top/"（官网）
-   "http://ezutai.senkins.top/"（系统平台）
-    $ 申请一个免费的用户账号  
-```   
+#### 使用之前
+     在浏览器中 打开 [官网](http://www.senkins.top/)                 
+     [系统平台](http://ezutai.senkins.top/)
+     申请一个免费的用户账号  
+####   
 
 #### 启用 ezutai（易组态） 
 
@@ -23,7 +22,8 @@ ezutai(易组态)
      $ cd ezutaiSDK
      $ npm install
      $ npm start
-     或直接下载各平台可执行程序（mac os，win64）
+     或直接下载各平台可执行程序（[mac os](http://ezutai.senkins.top/download/ezutai_mac.zip)，[win64](http://ezutai.senkins.top/download/ezutai_win64.exe)）
+     
 ####
     系统平台
 ### 简易教程
