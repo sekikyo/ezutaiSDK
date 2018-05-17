@@ -14,7 +14,7 @@ ezutai(易组态)
      
 在浏览器中 打开 [官网](http://www.senkins.top/) 或者 [系统平台](http://ezutai.senkins.top/)
 
-申请一个免费的用户账号  
+申请一个免费的用户账号,创建组态并运行，模拟器环境下开关量的通讯参数写入bool
 ####   
 
 #### 启用 ezutai（易组态） 
