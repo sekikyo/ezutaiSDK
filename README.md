@@ -23,7 +23,6 @@ ezutai(易组态)
      $ cd ezutaiSDK
      $ npm install
      $ npm start
-     或直接下载各平台可执行程序[mac os](http://ezutai.senkins.top/download/ezutai_mac.zip/)，[win64](http://ezutai.senkins.top/download/ezutai_win64.exe/)
      
 ####
     系统平台
@@ -36,7 +35,7 @@ ezutai(易组态)
  
  * 选择方式（默认模拟器），然后点击启动。 
                                   
-
+直接下载各平台可执行程序[mac os](http://ezutai.senkins.top/download/ezutai_mac.zip/)，[win64](http://ezutai.senkins.top/download/ezutai_win64.exe/)
                
 ## 其他通讯自定义扩展
 如果您喜欢我们的工具，我们也支持其他通讯连接的扩展
