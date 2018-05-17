@@ -1,0 +1,22 @@
+#main_container {
+    background: #f4f4f4 no-repeat ;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    border: 5px solid #ebebeb;
+    min-height: 300px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666;
+    font-size: 14px;
+    margin: 0;
+    line-height: 18px;
+ 
+}
+#features { 
+    background: #c6db6f repeat-x top left;
+    border-radius: 15px;
+    border:1px solid #e0e8c6;
+    margin:5px 0 10px 0; 
+    padding:20px 20px 20px 20px; 
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <script type="text/javascript" src="./index.js"></script>
+    <link rel="stylesheet" type="text/css" href="./index.css"/> 
+</head>
+
+<body>
+    <div id="features">
+        <label>通讯类型:</label>
+        <select id="conType" style="width: 120px;height: 20px;">
+            <option  value="simulator" selected>模拟器</option>
+            <option  value="opc">OPC-UA</option>
+        </select>
+        <button style="width: 100px;" id="sbtn" onclick="switchCase()">启动</button>
+        <button style="width: 100px;" id="cbtn" onclick="closeCase()" disabled>关闭连接</button>
+        <button onclick="clearTable()">清空消息</button>
+    </div>
+    <div id="main_container">
+        <table border="1px" id="myTable" >
+            <tr>
+                <td>编号</td>
+                <td>时间</td>
+                <td>接收消息</td>
+                <td>返回消息(值)</td>
+            </tr>
+        </table>     
+    </div>
+
+</body>
+
+</html>
