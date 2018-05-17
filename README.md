@@ -10,10 +10,11 @@ ezutai(易组态)
 
 ## 使用
 
-#### 使用之前
-     在浏览器中 打开 [官网](http://www.senkins.top/)                 
-     [系统平台](http://ezutai.senkins.top/)
-     申请一个免费的用户账号  
+### 使用之前
+     
+在浏览器中 打开 [官网](http://www.senkins.top/) 或者 [系统平台](http://ezutai.senkins.top/)
+
+申请一个免费的用户账号  
 ####   
 
 #### 启用 ezutai（易组态） 
@@ -73,5 +74,5 @@ class demo extends messageModel{
 
 ## Getting support
 
-support@senkins.top
+<support@senkins.top>
 
